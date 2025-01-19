@@ -1,0 +1,15 @@
+c:\Users\ome20\Desktop\Internership\SimpleInventoryManagement\bin\Debug\net9.0\SimpleInventoryManagement.exe
+c:\Users\ome20\Desktop\Internership\SimpleInventoryManagement\bin\Debug\net9.0\SimpleInventoryManagement.deps.json
+c:\Users\ome20\Desktop\Internership\SimpleInventoryManagement\bin\Debug\net9.0\SimpleInventoryManagement.runtimeconfig.json
+c:\Users\ome20\Desktop\Internership\SimpleInventoryManagement\bin\Debug\net9.0\SimpleInventoryManagement.dll
+c:\Users\ome20\Desktop\Internership\SimpleInventoryManagement\bin\Debug\net9.0\SimpleInventoryManagement.pdb
+c:\Users\ome20\Desktop\Internership\SimpleInventoryManagement\obj\Debug\net9.0\SimpleInventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ome20\Desktop\Internership\SimpleInventoryManagement\obj\Debug\net9.0\SimpleInventoryManagement.AssemblyInfoInputs.cache
+c:\Users\ome20\Desktop\Internership\SimpleInventoryManagement\obj\Debug\net9.0\SimpleInventoryManagement.AssemblyInfo.cs
+c:\Users\ome20\Desktop\Internership\SimpleInventoryManagement\obj\Debug\net9.0\SimpleInventoryManagement.csproj.CoreCompileInputs.cache
+c:\Users\ome20\Desktop\Internership\SimpleInventoryManagement\obj\Debug\net9.0\SimpleInventoryManagement.sourcelink.json
+c:\Users\ome20\Desktop\Internership\SimpleInventoryManagement\obj\Debug\net9.0\SimpleInventoryManagement.dll
+c:\Users\ome20\Desktop\Internership\SimpleInventoryManagement\obj\Debug\net9.0\refint\SimpleInventoryManagement.dll
+c:\Users\ome20\Desktop\Internership\SimpleInventoryManagement\obj\Debug\net9.0\SimpleInventoryManagement.pdb
+c:\Users\ome20\Desktop\Internership\SimpleInventoryManagement\obj\Debug\net9.0\SimpleInventoryManagement.genruntimeconfig.cache
+c:\Users\ome20\Desktop\Internership\SimpleInventoryManagement\obj\Debug\net9.0\ref\SimpleInventoryManagement.dll
